@@ -15,3 +15,5 @@
 ![](https://github.com/KattylovesFoma/hw6/blob/master/sketch%20diff.png)
 
 По полученным данным мы видим, что слово "visa" может употребляться как с refuse, так и с deny. В свою очередь, "report" используется только с deny, а "invitation" только с refuse.
+## Задание 3
+![](https://github.com/KattylovesFoma/hw6/blob/master/award%2C%20BNC.png)
